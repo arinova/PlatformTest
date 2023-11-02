@@ -11,7 +11,7 @@
 /[Uu]ser[Ss]ettings/
 
 # Manually created folder for Unity Asset Store assets
-/[Aa]ssets/PrivateAssets/
+/[Aa]ssets/PrivateAssets*
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
